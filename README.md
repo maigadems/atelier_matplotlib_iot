@@ -47,7 +47,7 @@ jupyter notebook notebooks/atelier_matplotlib_iot.ipynb
 - [x] Partie 2 - Diagramme en barres (Bar Chart)
 - [x] Partie 3 - Histogramme
 - [x] Partie 4 - Nuage de points (Scatter Plot)
-- [ ] Partie 5 - Diagramme à moustache (Box plot)
+- [x] Partie 5 - Diagramme à moustache (Box plot)
 - [ ] Partie 6 - Diagramme circulaire (Pie Chart)
 - [ ] Partie 7 - Plusieurs courbes sur un même graphique
 - [ ] Partie 8 - Sauvegarde des graphiques
