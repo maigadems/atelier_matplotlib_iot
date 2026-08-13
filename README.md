@@ -45,7 +45,7 @@ jupyter notebook notebooks/atelier_matplotlib_iot.ipynb
 - [x] Structure du projet, environnement virtuel, `requirements.txt`, `.gitignore`
 - [x] Partie 1 - Graphique linéaire (Line Plot)
 - [x] Partie 2 - Diagramme en barres (Bar Chart)
-- [ ] Partie 3 - Histogramme
+- [x] Partie 3 - Histogramme
 - [ ] Partie 4 - Nuage de points (Scatter Plot)
 - [ ] Partie 5 - Diagramme à moustache (Box plot)
 - [ ] Partie 6 - Diagramme circulaire (Pie Chart)
