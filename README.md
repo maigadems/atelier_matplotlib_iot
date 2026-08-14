@@ -51,4 +51,4 @@ jupyter notebook notebooks/atelier_matplotlib_iot.ipynb
 - [x] Partie 6 - Diagramme circulaire (Pie Chart)
 - [x] Partie 7 - Plusieurs courbes sur un même graphique
 - [x] Partie 8 - Sauvegarde des graphiques
-- [ ] Partie 9 - Bonus
+- [x] Partie 9 - Bonus (dashboard récapitulatif avec subplots)
